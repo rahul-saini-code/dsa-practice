@@ -54,4 +54,24 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul-saini-code/dsa-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
 <!---LeetCode Topics End-->
