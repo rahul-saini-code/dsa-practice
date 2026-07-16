@@ -29,3 +29,23 @@ I am consistently solving problems to strengthen my problem-solving skills and p
 
 ##  Goal
 To build strong DSA fundamentals and improve logical thinking for technical interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rahul-saini-code/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rahul-saini-code/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rahul-saini-code/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rahul-saini-code/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+<!---LeetCode Topics End-->
