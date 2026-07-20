@@ -42,17 +42,20 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul-saini-code/dsa-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahul-saini-code/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/rahul-saini-code/dsa-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahul-saini-code/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahul-saini-code/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/rahul-saini-code/dsa-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahul-saini-code/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul-saini-code/dsa-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahul-saini-code/dsa-practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/rahul-saini-code/dsa-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahul-saini-code/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
