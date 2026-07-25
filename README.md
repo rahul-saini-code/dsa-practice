@@ -73,10 +73,12 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/rahul-saini-code/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/rahul-saini-code/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -99,4 +101,8 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/rahul-saini-code/dsa-practice/tree/main/0695-max-area-of-island/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/rahul-saini-code/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
