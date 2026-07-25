@@ -50,6 +50,7 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 | [0199-binary-tree-right-side-view](https://github.com/rahul-saini-code/dsa-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahul-saini-code/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/rahul-saini-code/dsa-practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/rahul-saini-code/dsa-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rahul-saini-code/dsa-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul-saini-code/dsa-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/rahul-saini-code/dsa-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0695-max-area-of-island](https://github.com/rahul-saini-code/dsa-practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/rahul-saini-code/dsa-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rahul-saini-code/dsa-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/rahul-saini-code/dsa-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rahul-saini-code/dsa-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -105,4 +108,12 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rahul-saini-code/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/rahul-saini-code/dsa-practice/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/rahul-saini-code/dsa-practice/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
