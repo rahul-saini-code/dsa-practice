@@ -70,12 +70,14 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/rahul-saini-code/dsa-practice/tree/main/0525-contiguous-array/) | Medium |
 | [0695-max-area-of-island](https://github.com/rahul-saini-code/dsa-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rahul-saini-code/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0525-contiguous-array](https://github.com/rahul-saini-code/dsa-practice/tree/main/0525-contiguous-array/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -116,4 +118,8 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/rahul-saini-code/dsa-practice/tree/main/0743-network-delay-time/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/rahul-saini-code/dsa-practice/tree/main/0525-contiguous-array/) | Medium |
 <!---LeetCode Topics End-->
