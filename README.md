@@ -73,6 +73,7 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 | [0525-contiguous-array](https://github.com/rahul-saini-code/dsa-practice/tree/main/0525-contiguous-array/) | Medium |
 | [0695-max-area-of-island](https://github.com/rahul-saini-code/dsa-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/rahul-saini-code/dsa-practice/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahul-saini-code/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +123,12 @@ To build strong DSA fundamentals and improve logical thinking for technical inte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/rahul-saini-code/dsa-practice/tree/main/0525-contiguous-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahul-saini-code/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahul-saini-code/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
